@@ -1,0 +1,4 @@
+Laptop,60000,Dell,50
+Mobile,30000,Samsung,30
+Headphones,2000,Boat,50
+Tablet,25000,Apple,20
